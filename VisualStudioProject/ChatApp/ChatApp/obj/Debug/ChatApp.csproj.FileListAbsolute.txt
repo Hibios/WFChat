@@ -1,0 +1,20 @@
+F:\Charp projects\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+F:\Charp projects\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+F:\Charp projects\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+F:\Charp projects\ChatApp\ChatApp\obj\Debug\ChatApp.csprojAssemblyReference.cache
+F:\Charp projects\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+F:\Charp projects\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+F:\Charp projects\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+F:\Charp projects\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+F:\Charp projects\ChatApp\ChatApp\obj\Debug\ChatApp.MainWindow.resources
+F:\Charp projects\ChatApp\ChatApp\obj\Debug\ChatApp.POPUPWindow.resources
+C:\Users\ivan1\Desktop\WFChatProject\VisualStudioProject\ChatApp\ChatApp\bin\Debug\WFChat.exe.config
+C:\Users\ivan1\Desktop\WFChatProject\VisualStudioProject\ChatApp\ChatApp\bin\Debug\WFChat.exe
+C:\Users\ivan1\Desktop\WFChatProject\VisualStudioProject\ChatApp\ChatApp\bin\Debug\WFChat.pdb
+C:\Users\ivan1\Desktop\WFChatProject\VisualStudioProject\ChatApp\ChatApp\obj\Debug\ChatApp.csprojAssemblyReference.cache
+C:\Users\ivan1\Desktop\WFChatProject\VisualStudioProject\ChatApp\ChatApp\obj\Debug\ChatApp.MainWindow.resources
+C:\Users\ivan1\Desktop\WFChatProject\VisualStudioProject\ChatApp\ChatApp\obj\Debug\ChatApp.POPUPWindow.resources
+C:\Users\ivan1\Desktop\WFChatProject\VisualStudioProject\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+C:\Users\ivan1\Desktop\WFChatProject\VisualStudioProject\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+C:\Users\ivan1\Desktop\WFChatProject\VisualStudioProject\ChatApp\ChatApp\obj\Debug\WFChat.exe
+C:\Users\ivan1\Desktop\WFChatProject\VisualStudioProject\ChatApp\ChatApp\obj\Debug\WFChat.pdb
